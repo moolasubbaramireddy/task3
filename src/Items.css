@@ -1,0 +1,48 @@
+* a{
+    text-decoration: none;
+}
+
+.mainContainer{
+    align-items: center;
+   margin:0% auto;
+   box-sizing: border-box;
+   width: 20%;
+   display:inline-block;
+}
+
+.container{
+
+       
+        display: inline-block;
+        width: 246px; 
+        height: 275px;
+        border-radius: 5px;
+        border: 1px solid;
+        margin: 5px;
+        padding: 5px;
+    
+}
+
+img{
+  
+    height: 90px;
+    width: 229px;
+    padding-left: 8px;
+}
+.event {
+    margin: 0 auto;
+    padding: 0;
+}
+ p{
+    width: auto;
+    flex-wrap: wrap;
+    
+    position: relative;
+    height:auto;
+    overflow:hidden;
+    max-height:20px;
+    
+}
+.full {
+    width: 100%;
+}
